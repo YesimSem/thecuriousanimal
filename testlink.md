@@ -1,6 +1,6 @@
 ----
 
-theme: jekyll-theme-hacker
+layout: jekyll-theme-hacker
 
 ----
 ### Test for a link
