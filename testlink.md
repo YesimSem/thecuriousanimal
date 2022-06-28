@@ -1,8 +1,8 @@
-----
 
-layout: jekyll-theme-hacker
+---
+layout: default
+---
 
-----
 ### Test for a link
 
 
